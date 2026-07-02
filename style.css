@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    font-size: 40px;
+    padding: 6px;
+    border: none;
+    color: #fafafa;
+    background-color: #333333;
+    border-radius: 60px;
+    width: 600px;
+    cursor: pointer;
+}
+
+.colors {
+    background-color: blueviolet;
+}
