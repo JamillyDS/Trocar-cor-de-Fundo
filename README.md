@@ -1,2 +1,5 @@
 # Trocar-cor-de-Fundo
-Pequeno projeto para aprender a usar Java Script.
+
+***
+
+Pequeno projeto inicial com Java Script com o intuito de alterar a cor de fundo do Web Site, bem simples.
